@@ -1,0 +1,31 @@
+_repo: Mavis-of-Green-Hill_37710
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baldwin, Faith
+    aliases:
+    - Cuthrell, Mrs. Hugh Hamlin
+    - Cuthrell, Faith Baldwin
+    birthdate: 1893
+    deathdate: 1978
+    gutenberg_agent_id: '39000'
+    url: http://www.gutenberg.org/2009/agents/39000
+    wikipedia: http://en.wikipedia.org/wiki/Faith_Baldwin
+description: ''
+gutenberg_issued: '2011-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- !lcsh 'Love stories'
+title: Mavis of Green Hill
+url: http://www.gutenberg.org/ebooks/37710
